@@ -3,7 +3,6 @@
 <p align="left"> 
   <a href="https://github.com/emahji2683/emahji2683/"><img src="https://komarev.com/ghpvc/?username=emahji2683" alt="emahji2683" /></a>
   <a href="https://github.com/emahji2683"><img height="20" src="https://img.shields.io/github/followers/emahji2683?label=follow&logo=github&style=flat" /></a>
-  <a href="http://x.com/ki_runteq_pro6a"><img height="20" src="https://img.shields.io/twitter/follow/ki_runteq_pro6a?style=flat&logo=x" /></a>
 </p>
 
 ### Recent Activities
